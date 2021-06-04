@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# API AMAZONA ECOMMERCE (MERN STACK) :shopping:	
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+E-commerce website like Amazon.
 
-## Available Scripts
+## Technologies :gear:
 
-In the project directory, you can run:
+:large_blue_circle: HTML5
+
+:large_blue_circle: CSS3 (grid & flexbox)
+
+:large_blue_circle: JS ES6
+
+:large_blue_circle: REACT JS (components, props, events, hooks, router & axios)
+
+:large_blue_circle: REDUX (store, reducers, actions)
+
+:large_blue_circle: NODE JS & EXPRESS (web API, body parser, file upload & jwt)
+
+:large_blue_circle: MONGO DB (mongoose)
+
+:large_blue_circle: DEVELOPMENT (ESLint, Babel & Git)
 
 ### `npm start`
 
